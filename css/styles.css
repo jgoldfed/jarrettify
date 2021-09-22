@@ -530,7 +530,6 @@ a {
 .callout {
     padding: 4rem;
     border-radius: 5px;
-    border: 3px solid gold;
 }
 
 .callout--primary {
@@ -551,6 +550,10 @@ a {
 
 .callout__content {
     text-align: center;
+}
+
+.callout-signup {
+    transform: translateY(5rem);
 }
 
 @media screen and (min-width: 768px) {
